@@ -1,5 +1,5 @@
 # DayZ-Alteria-Missions
-Fixed Version of JMC DayZ-Alteria-Stable
+Fixed Version of JMC DayZ-Alteria-Stable Mission files.
 
 - Fixed Animal Spawn Events
 - Fixed loot usage errors
